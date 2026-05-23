@@ -121,16 +121,7 @@ python "Dataset Tools/prepare_dataset.py"
 python "Core Scripts/train_yolov8s.py"
 ```
 
-### Train với dataset tùy chỉnh
-```bash
-# Chạy lần lượt pipeline
-python "Dataset Tools/vietnam_landmark/step1_collect.py"
-python "Dataset Tools/vietnam_landmark/step2_clean.py"
-python "Dataset Tools/vietnam_landmark/step3_label.py"
-python "Dataset Tools/vietnam_landmark/step4_structure.py"
-python "Dataset Tools/vietnam_landmark/step5_augment.py"
-python "Dataset Tools/vietnam_landmark/step6_verify.py"
-```
+
 
 ---
 
