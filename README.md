@@ -7,9 +7,10 @@
 ## Tính năng chính
 
 - **Phát hiện vật cản** — nhận diện người, xe, ghế, cửa... và ước lượng khoảng cách
+- **Nhận diện địa danh** - nhận diện các địa danh nổi tiếng ở Hà Nội: Lăng Bác, Hồ Gươm, Hồ Tây,...
 - **Xác định vị trí** — thông báo vật thể đang ở bên trái, phía trước, hay bên phải
 - **Cảnh báo giọng nói** — đọc cảnh báo bằng tiếng Việt tự nhiên (gTTS)
-- **Hai chế độ** — Segmentation (phân vùng) và Detection (nhận diện)
+- **Hai chế độ** — Nhận diện vật cản & Nhận diện địa danh Hà Nội
 - **Tự động đọc** — tự động thông báo khi phát hiện vật thể mới
 
 ---
@@ -50,7 +51,6 @@ CV/
 
 ### Yêu cầu
 - Python 3.10+
-- macOS (Apple M1/M2) hoặc Linux
 - Webcam hoặc camera IP (DroidCam...)
 
 ### Bước 1 — Clone repo
