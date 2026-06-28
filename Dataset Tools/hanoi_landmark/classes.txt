@@ -1,0 +1,8 @@
+0	ho_guom	Hồ Gươm	Hoan Kiem Lake
+1	chua_mot_cot	Chùa Một Cột	One Pillar Pagoda
+2	lang_bac	Lăng Bác	Ho Chi Minh Mausoleum
+3	ho_tay	Hồ Tây	West Lake
+4	nha_hat_lon	Nhà Hát Lớn	Hanoi Opera House
+5	nha_tho_lon	Nhà Thờ Lớn	St. Joseph's Cathedral Hanoi
+6	trang_tien_plaza	Tràng Tiền Plaza	Trang Tien Plaza
+7	van_mieu	Văn Miếu Quốc Tử Giám	Temple of Literature Hanoi

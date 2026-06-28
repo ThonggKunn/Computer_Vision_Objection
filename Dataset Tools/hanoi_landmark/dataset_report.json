@@ -1,0 +1,55 @@
+{
+  "total_images": 4800,
+  "splits": {
+    "train": 3840,
+    "val": 480,
+    "test": 480
+  },
+  "per_class": {
+    "ho_guom": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "chua_mot_cot": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "lang_bac": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "ho_tay": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "nha_hat_lon": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "nha_tho_lon": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "trang_tien_plaza": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    },
+    "van_mieu": {
+      "train": 480,
+      "val": 60,
+      "test": 60
+    }
+  },
+  "warnings": [
+    "  1 ảnh bị data leakage — xem chi tiết ở trên"
+  ],
+  "leakage_count": 1,
+  "size_issues": 0
+}
